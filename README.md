@@ -17,7 +17,12 @@ infer insights about their connections. The other project will be to
 assemble a database of restaurant inspection data, then query it to see
 the variations in scores, violations and types of restaurants.
 
+### Python version: 3.7.2
 
 ## Running notes
+### 1:
 
-## 
+### 2:
+### 3:
+
+##
